@@ -1,0 +1,69 @@
+
+    img{
+    width:200px;
+    border-radius:50px;
+    margin-right:10px;
+    float:right;
+    border:5px solid #555
+    }
+    @font-face {
+      font-family: myFirstFont;
+      src: url(sansation_light.woff);
+   }
+    h1{
+     text-align:center;
+     color:crimson;
+     }
+    h2{
+      color:rgb(70, 4, 70);
+      font-family: myFirstFont;
+      font-weight: normal;
+      text-transform: uppercase;
+      text-shadow: 0 2px rgb(145, 135, 135);
+      }
+    h3{
+      color:crimson;
+      font-weight: normal;
+      text-transform: uppercase;
+      text-shadow: 0 2px rgb(56, 47, 47);
+      
+      }
+    u{
+    color:crimson;
+    }
+    body{
+    background-image:url("index2.jpeg");
+    background-size:cover;
+    
+    }
+    p{
+    font-size:18px;
+    font-family:cursive;
+    font-family: myFirstFont;
+    font-weight: normal;
+    }
+    a{
+      color:crimson;
+    }
+    .resume {
+        background-color: white;
+        border: 2px solid black;
+        color: rgb(212, 85, 35);
+        padding: 5px 10px;
+        text-align: center;
+        display: inline-block;
+        font-size: 20px;
+        margin: 10px 30px;
+        cursor: pointer;
+        
+    }
+    .main{
+      
+      color: #072655;
+      font-weight: normal;
+      font-family: 'Ultra', sans-serif;   
+      font-size: 36px;
+      line-height: 42px;
+      text-transform: uppercase;
+      text-shadow: 0 3px rgb(97, 92, 92);
+    }
